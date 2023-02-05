@@ -1,0 +1,38 @@
+img{
+    height: 1cm;
+    width: 1cm;
+    margin-right: 0.3cm;
+    margin-left: 0.3cm;
+}
+
+table{
+    position: fixed;
+    border-right: 0.1px solid rgb(219, 219, 219);
+
+}
+
+.Box{
+    border-radius: 0.5cm;
+    height: 2.5cm;
+    color: gray;
+    margin: 1px;
+    }
+
+h6{
+    text-align: center;
+    margin: 2px;
+}
+
+.Bar{
+    height: 10px;
+    width: 10px;
+}
+
+.Box:hover{
+    background-color: greenyellow;
+    transition: ease 0.5s;
+    cursor: pointer;
+}
+
+
+
